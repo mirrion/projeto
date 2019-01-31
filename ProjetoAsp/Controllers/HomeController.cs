@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ProjetoAsp.Models;
+using ProjetoAsp.Models.ViewModels;
 
 namespace ProjetoAsp.Controllers
 {
